@@ -1,0 +1,1 @@
+This is the first text file of the local repository GIT_EXERCISE

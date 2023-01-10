@@ -1,2 +1,3 @@
 This is the first text file of the local repository GIT_EXERCISE
 This current file is beign edited
+THe SEA IS BLUE 
